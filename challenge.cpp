@@ -32,5 +32,4 @@ int main(){
     }
     SD = sqrt(topSum/(n-1));
     printf("\nSD = %.2f",SD);
-    
 }
