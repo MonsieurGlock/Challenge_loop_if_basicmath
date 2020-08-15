@@ -31,6 +31,6 @@ int main(){
         topSum = pow( num[i]-ave,2) + topSum;
     }
     SD = sqrt(topSum/(n-1));
-    printf("\nSD = %f",SD);
+    printf("\nSD = %.2f",SD);
     
 }
